@@ -1,0 +1,304 @@
+#container {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.top-bar {
+    background-color: white;
+    width: 100%;
+    height: 40px
+}
+
+
+.zisseki {
+    display: inline-block;
+    vertical-align: bottom;
+    position: absolute;
+    left: 150px;
+}
+
+.minami {
+    display: inline-block;
+    position: absolute;
+    left: 300px;
+
+}
+
+#bar {
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+
+}
+
+.clear-float {
+    clear: both;
+}
+
+.magnifying {
+    float: left;
+}
+
+.top-list {
+    position: relative;
+    width: 100%
+}
+
+.text1 {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.link1 {
+    color: white;
+    text-decoration: none;
+}
+
+.square1 {
+    position: relative;
+    background-color: #FB9B1D;
+    width: 33.33333%;
+    height: 50px;
+    float: left;
+    text-align: center;
+    display: table;
+}
+
+.square2 {
+    background-color: #FCAC64;
+    width: 33.3333%;
+    height: 50px;
+    float: left;
+    text-align: center;
+    display: table;
+}
+
+
+.square3 {
+    background-color: #F798C2;
+    width: 33.333333%;
+    height: 50px;
+    float: left;
+    text-align: center;
+    display: table;
+}
+
+.white {
+    background-color: white;
+    width: 100%;
+    height: 300px;
+    display: table;
+    text-align: center;
+}
+
+.minami-img {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.orange {
+    position: relative;
+    background-color: #FBA04D;
+    width: 100%;
+    height: 80px;
+    display: table;
+    text-align: center;
+}
+
+.misaki-img {
+    width: 60%;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.image-link {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+}
+
+.contents {
+    width: 95%;
+    margin: auto
+}
+
+.white2 {
+    background-color: white;
+    width: 100%;
+    height: 130px;
+    display: table;
+    text-align: center;
+
+}
+
+.topics {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+
+
+
+.image1 {
+    float: left;
+    width: 50%;
+    padding: 5px;
+    box-sizing: border-box;
+
+}
+
+.image2 {
+    float: right;
+    width: 50%;
+    padding: 5px;
+    box-sizing: border-box;
+
+}
+
+.images {
+    background-color: forestgreen;
+    height: auto;
+    width: 100%
+}
+
+.ichiran {
+    background-color: orange;
+    color: white;
+    border-radius: 15px;
+    padding: 4px 20px;
+    margin-top: 10px;
+    position: relative;
+    right: 0;
+    left: 0;
+    margin: auto
+}
+
+.news {
+    width: 100%;
+    position: absolute
+}
+
+.orange-bar {
+    background-color: orange;
+    height: 25px;
+    width: 5px;
+    border-radius: 5px;
+    float: left;
+}
+
+
+.news-letter {
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.ichiran2 {
+    background-color: orange;
+    color: white;
+    border-radius: 15px;
+    padding: 4px 20px;
+    box-sizing: border-box;
+    float: right;
+}
+
+li {
+    text-align: left;
+}
+
+
+
+.top1 {
+    margin-top: 30px;
+    background-color: #FFFDF8;
+    width: 100%;
+    height: 60px;
+}
+
+.top2 {
+    background-color: white;
+    width: 100%;
+    height: 60px;
+}
+
+.top3 {
+    background-color: #FFFDF8;
+    width: 100%;
+    height: 60px;
+}
+
+.padding {
+    display: inline-block;
+    padding-left: 15px;
+    padding-top: 30px;
+    text-decoration: none;
+}
+
+a.padding {
+    color: black
+}
+
+.clear-bar {
+    text-decoration: none;
+}
+
+.gray {
+    color: gray;
+
+}
+
+.white-wall {
+    background-color: white;
+    width: 100%;
+    height: 220px;
+    position: relative;
+    display: table;
+}
+
+
+.image2 {
+    display: table-cell;
+    vertical-align: middle;
+
+}
+
+.at-mt {
+    padding-bottom: 10px
+}
+
+.special-contents {
+    float: left;
+    position: relative;
+    top: 8px;
+    left: 5px;
+    font-weight: bold
+}
+
+.hr1 {
+    display: block;
+    margin-top: 40px;
+    width: 100%;
+    height: 2px;
+    background-color: gray;
+    border: 0;
+
+}
+
+img.no1 {
+    margin-top: 15px;
+    width: 100%
+}
+
+.blog {
+    background-color: white;
+    margin-top: 10px
+}
+
+.blog-1 {
+    float: left;
+}
